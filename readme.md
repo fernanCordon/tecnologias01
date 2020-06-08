@@ -7,15 +7,14 @@
 *DÍA 1*  
 Presentación de la asignatura: [Slideshow](https://docs.google.com/presentation/d/14xRkN9yqllp6_I3m0gIFHbMaN25jg9FvyeM7ilqvlmc/edit?usp=sharing)  |  [Video de clase]() (Hay que hacerlo)  
 Imagen digital: [Slideshow](https://docs.google.com/presentation/d/1MfZuHkc294BJ-Yvhe6znkFwRYLDf6tqUfg0-DXlRYkU/edit?usp=sharing)  | [Video de clase](https://vimeo.com/278643024)  
-Tarea: <span style="color:tomato"> Imagen digital</style>  
-
+Tarea:  `Imagen digital`
 ### INDESIGN  
 
 *DÍA 2*  
 Distribución de elementos gráficos: [Slideshow](https://docs.google.com/presentation/d/1a-DBRTgNLoqvwxJFwWkQRNu1TYjbqtgu5Sc7D8a7Lhg/edit?usp=sharing)  |  [Video de clase]() (Hay que hacerlo)    
 Primeras practicas con el software.   
 Adobe InDesign: [Videotutorial](https://vimeo.com/338218704)  
-Tarea: <span style="color:tomato"> Maquetación 1 (Entregar 2 días depués)  
+Tarea: `Maquetación 1` (Entregar 2 días depués)  
 	
 *DÍA 3*  
 Tarea: <span style="color:tomato"> Maquetación 2 (Entregar 4 días depués)</style> 
