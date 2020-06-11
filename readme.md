@@ -1,20 +1,22 @@
 # Tecnologías de la imagen 1
 <!-- comentario -->
-<span style="color:tomato">   </style>
 
 
 ### PRESENTACIÓN E IMAGEN DIGITAL 
 
 *DÍA 1*  
-Presentación de la asignatura: [Slideshow](https://docs.google.com/presentation/d/14xRkN9yqllp6_I3m0gIFHbMaN25jg9FvyeM7ilqvlmc/edit?usp=sharing)  |  [Video de clase]() (Hay que hacerlo)  
+Presentación de la asignatura: [Slideshow]()  |  [Video de clase]() (Hay que hacerlo)  
 Imagen digital: [Slideshow](https://docs.google.com/presentation/d/1MfZuHkc294BJ-Yvhe6znkFwRYLDf6tqUfg0-DXlRYkU/edit?usp=sharing)  | [Video de clase](https://vimeo.com/278643024)  
 Prácticas: Aula Mac  
 Tarea:  *Imagen digital*
 
+
+<!-- Presentación de la asignatura: [Slideshow](https://docs.google.com/presentation/d/14xRkN9yqllp6_I3m0gIFHbMaN25jg9FvyeM7ilqvlmc/edit?usp=sharing)  |  [Video de clase]() (Hay que hacerlo)  -->
+
 ### INDESIGN  
 
 *DÍA 2*  
- Distribución de elementos gráficos: [Slideshow](https://docs.google.com/presentation/d/1a-DBRTgNLoqvwxJFwWkQRNu1TYjbqtgu5Sc7D8a7Lhg/edit?usp=sharing)  |  [Video de clase]() (Hay que hacerlo)    
+Composición: [Slideshow](https://docs.google.com/presentation/d/1a-DBRTgNLoqvwxJFwWkQRNu1TYjbqtgu5Sc7D8a7Lhg/edit?usp=sharing)  |  [Video de clase]() (Hay que hacerlo)    
 Prácticas: Introducción al software   
 Adobe InDesign: [Videotutorial](https://vimeo.com/338218704)  
 Tarea: *Maquetación 1*
