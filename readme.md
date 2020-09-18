@@ -4,19 +4,19 @@
 ### PRESENTACIÓN DE LA ASIGNATURA 
 
 *DÍA 1*  
-Presentación de la asignatura: [Slideshow]()  |  [Video de clase]() (Hacerlo)  
+Presentación de la asignatura: [Slideshow](https://docs.google.com/presentation/d/14xRkN9yqllp6_I3m0gIFHbMaN25jg9FvyeM7ilqvlmc/edit?usp=sharing)  |  [Video de clase](https://vimeopro.com/user37418220/tecnologias-imagen/video/459290637)  
 
 ### IMAGEN DIGITAL 
 
-Imagen digital: [Slideshow]()  | [Video de clase]()  
-Prácticas: Aula Mac  
+Imagen digital: [Slideshow](https://docs.google.com/presentation/d/1MfZuHkc294BJ-Yvhe6znkFwRYLDf6tqUfg0-DXlRYkU/edit?usp=sharing)  | [Video de clase](https://vimeo.com/278643024).  
+Prácticas: Polilabs, Poliformat, Teams.  
 Tarea:  *Imagen digital*
 
 
 ### INDESIGN  
 
 *DÍA 2*  
-Composición: [Slideshow]()  |  [Video de clase]() (Hay que hacerlo)    
+Composición: [Slideshow]()  |  [Video de clase]()  
 Prácticas: Introducción al software   
 Adobe InDesign: [Videotutorial]()  
 Tarea: *Maquetación 1*  
@@ -63,7 +63,7 @@ Prácticas: Entrega de rúbricas
 ### DIBUJO VECTORIAL E ILUSTRACIÓN
 
 *DÍA 10*  
-Didujo vectorial: [Slideshow]()  |  [Video de clase]() (Hay que hacerlo)  
+Didujo vectorial: [Slideshow]()  |  [Video de clase]() (***)  
 Prácticas: Introducción al software  
 Adobe Illustrator: [Videos]()  
 Icomos de Gerd Arntz: [Video de clase]()  
@@ -86,7 +86,7 @@ Práctica: Ilustración de un texto
 ### DISEÑO APP
 
 *DÍA 14*  
-Presentación de ilustraciones: [web]()  (Hay que hacerlo)  
+Presentación de ilustraciones: [web]()  (***)  
 Innovación y emprendimiento: [Slideshow]()  |  [Video de clase]()  
 Tarea: *Canvas*
 
