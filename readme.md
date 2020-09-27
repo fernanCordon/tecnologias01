@@ -4,15 +4,15 @@
 ### PRESENTACIÓN DE LA ASIGNATURA 
 
 *DÍA 1*  
-Presentación de la asignatura: [Slideshow](https://docs.google.com/presentation/d/14xRkN9yqllp6_I3m0gIFHbMaN25jg9FvyeM7ilqvlmc/edit?usp=sharing)  |  [Video de clase](https://vimeopro.com/user37418220/tecnologias-imagen/video/459290637)  
+Presentación de la asignatura: [Slideshow]()  |  [Video de clase]()  
 
 ### IMAGEN DIGITAL 
 
-Imagen digital: [Slideshow](https://docs.google.com/presentation/d/1MfZuHkc294BJ-Yvhe6znkFwRYLDf6tqUfg0-DXlRYkU/edit?usp=sharing)  | [Video de clase](https://vimeo.com/278643024).   
+Imagen digital: [Slideshow]()  | [Video de clase]().   
 Prácticas: Polilabs, Poliformat, Teams.  
 Tarea:  *Imagen digital*
 
-
+<!--
 ### INDESIGN  
 
 *DÍA 2*  
@@ -143,7 +143,7 @@ Taller: Mapa de bit, Diseño app, portafolio web
 
   
   
-
+-->
 
 
 
