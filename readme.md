@@ -17,7 +17,7 @@ Tarea:  *Imagen digital*
 ### INDESIGN  
 
 *DÍA 2*  
-Composición: [Slideshow]()  |  [Video de clase]()  
+Composición: [Slideshow](https://docs.google.com/presentation/d/1a-DBRTgNLoqvwxJFwWkQRNu1TYjbqtgu5Sc7D8a7Lhg/edit?usp=sharing)  |  [Video de clase]()  
 Prácticas: Introducción al software   
 Adobe InDesign: [Videotutorial]()  
 Tarea: *Maquetación 1*  
