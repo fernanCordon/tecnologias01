@@ -17,22 +17,20 @@ Tarea:  *Imagen digital*
 ### INDESIGN  
 
 *DÍA 2*  
-Composición: [Slideshow](https://docs.google.com/presentation/d/1a-DBRTgNLoqvwxJFwWkQRNu1TYjbqtgu5Sc7D8a7Lhg/edit?usp=sharing)  |  [Video de clase]()  
+Composición: [Slideshow](https://docs.google.com/presentation/d/1a-DBRTgNLoqvwxJFwWkQRNu1TYjbqtgu5Sc7D8a7Lhg/edit?usp=sharing)  |  [Video de clase](https://vimeopro.com/user37418220/tecnologias-imagen/video/459309046)   
 Prácticas: Introducción al software   
-Adobe InDesign: [Videotutorial]()  
-Tarea: *Maquetación 1*  
-Prácticas: InDesign 
+Adobe InDesign: [Videotutorial](https://vimeo.com/338218704)  
 
-<!--
 	
 *DÍA 3*  
-Tarea: *Maquetación 2*  
+Tarea: *Maquetación 1, Maquetación 2 y Maquetación 3*  
 Prácticas: InDesign 
    
 *DÍA 4*  
-Tarea: *Maquetación 3*  
+Tarea: *Maquetación 1, Maquetación 2 y Maquetación 3*  
 Prácticas: InDesign 
 
+<!--
 	
 ### FOTOGRAFÍA 
 
