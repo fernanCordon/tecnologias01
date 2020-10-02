@@ -13,7 +13,7 @@ Prácticas: Polilabs, Poliformat, Teams.
 Tarea:  *Imagen digital*
 
 
-<!--
+
 ### INDESIGN  
 
 *DÍA 2*  
@@ -23,6 +23,7 @@ Adobe InDesign: [Videotutorial]()
 Tarea: *Maquetación 1*  
 Prácticas: InDesign 
 
+<!--
 	
 *DÍA 3*  
 Tarea: *Maquetación 2*  
