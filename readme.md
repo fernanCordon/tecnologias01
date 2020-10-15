@@ -30,7 +30,7 @@ Prácticas: InDesign
 Tarea: *Maquetación 1, Maquetación 2 y Maquetación 3*  
 Prácticas: InDesign 
 
-<!--
+
 	
 ### FOTOGRAFÍA 
 
@@ -38,9 +38,10 @@ Prácticas: InDesign
 Toma fotográfica: [Slideshow]() | [Video de clase]()  
 Recurso: [Simulador de fotografía]()  
 Iluminación: [Videotutorial]()  
-Apuntes: Historia de la fotografía  
-Tarea: *Técnicas básicas de fotografía*  
+Apuntes: Historia de la fotografía (examen el día 23 a principio de clase)  
+Tarea: *Técnicas básicas de fotografía*   
 
+<!--
 
 *DÍA 6*  
 Referentes de retratos: [Slideshow]()  |  [Video de clase]()   
