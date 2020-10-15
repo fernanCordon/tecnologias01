@@ -35,7 +35,7 @@ Prácticas: InDesign
 ### FOTOGRAFÍA 
 
 *DÍA 5*  
-Toma fotográfica: [Slideshow]() | [Video de clase]()  
+Toma fotográfica: [Video de clase]()  
 Recurso: [Simulador de fotografía]()  
 Iluminación: [Videotutorial]()  
 Apuntes: Historia de la fotografía (examen el día 23 a principio de clase)  
