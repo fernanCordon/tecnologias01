@@ -39,6 +39,7 @@ Toma fotográfica: [Video de clase]()
 Recurso: [Simulador de fotografía]()  
 Iluminación: [Videotutorial]()  
 Apuntes: Historia de la fotografía (examen el día 23 a principio de clase)  
+Creación de grupos para el proyecto.  
 Tarea: *Técnicas básicas de fotografía*   
 
 <!--
