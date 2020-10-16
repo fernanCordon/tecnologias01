@@ -35,12 +35,12 @@ Prácticas: InDesign
 ### FOTOGRAFÍA 
 
 *DÍA 5*  
-Toma fotográfica: [Video de clase]()  
-Recurso: [Simulador de fotografía]()  
-Iluminación: [Videotutorial]()  
-Apuntes: Historia de la fotografía (examen el día 23 a principio de clase)  
+Toma fotográfica: [Video de clase](https://vimeo.com/279921279)  
+Recurso: [Simulador de fotografía](http://www.canonoutsideofauto.ca/play/)  
+Iluminación: [Videotutorial](https://www.youtube.com/watch?v=7QH21_86QNU)  
+Apuntes: Historia de la fotografía (examen el día 23 a principio de clase).  
 Creación de grupos para el proyecto.  
-Tarea: *Técnicas básicas de fotografía*   
+Tarea: *Técnicas básicas de fotografía*
 
 <!--
 
