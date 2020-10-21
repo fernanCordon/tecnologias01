@@ -46,7 +46,7 @@ Tarea: *Técnicas básicas de fotografía*
 
 *DÍA 6*.  
 Exposición de carteles (maquetación 3).   
-Referentes: [Video de clase]()   
+Referentes: [Video de clase](https://vimeo.com/279982829)   
 Tarea: Explicación de la tarea *Proyecto fotografía*.  
 Muestra de trabajos del curso  pasado.   
 Prácticas: Cada grupo comienza a idear su proyecto
