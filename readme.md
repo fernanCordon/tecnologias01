@@ -42,13 +42,16 @@ Apuntes: Historia de la fotografía (examen el día 23 a principio de clase).
 Creación de grupos para el proyecto.  
 Tarea: *Técnicas básicas de fotografía*
 
+
+
+*DÍA 6*.  
+Exposición de carteles (maquetación 3).   
+Referentes: [Video de clase]()   
+Tarea: Explicación de la tarea *Proyecto fotografía*.  
+Muestra de trabajos del curso  pasado.   
+Prácticas: Cada grupo comienza a idear su proyecto
+
 <!--
-
-*DÍA 6*  
-Referentes de retratos: [Slideshow]()  |  [Video de clase]()   
-Tarea: *Retratos*  
-Prácticas: Idear el proyecto
-
 
 *DÍA 7*  
 Prácticas: Proyecto Retratos  
