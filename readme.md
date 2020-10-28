@@ -51,7 +51,7 @@ Tarea: Explicación de la tarea *Proyecto fotografía*.
 Muestra de trabajos del curso  pasado.   
 Prácticas: Cada grupo comienza a idear su proyecto
 
-<!--
+
 
 *DÍA 7*  
 Prácticas: Proyecto Retratos  
@@ -61,6 +61,7 @@ Test: *Historia de la fotografía*
 *DÍA 8*  
 Prácticas: Proyecto Retratos 
 
+<!--
 *DÍA 9*  
 Presentación de proyectos: [Retratos]()  
 Prácticas: Entrega de rúbricas
