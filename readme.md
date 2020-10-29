@@ -58,17 +58,17 @@ Prácticas: Proyecto Retratos
 Test: *Historia de la fotografía*  
 
  	
-*DÍA 8*  
+*DÍAS 8, 9 y 10*  
 Prácticas: Proyecto Retratos 
 
 <!--
-*DÍA 9*  
+*DÍA 11*  
 Presentación de proyectos: [Retratos]()  
 Prácticas: Entrega de rúbricas
 
 ### DIBUJO VECTORIAL E ILUSTRACIÓN
 
-*DÍA 10*  
+*DÍA 12*  
 Didujo vectorial: [Slideshow]()  |  [Video de clase]() (***)  
 Prácticas: Introducción al software  
 Adobe Illustrator: [Videos]()  
@@ -77,27 +77,27 @@ Tarea: *Siluetas*
 
 
 
-*DÍA 11*  
+*DÍA 13*  
 Práctica de contorno en clase  
 Ilustración de un [texto]()  
 Tarea: *Ilustración*
 
 
-*DÍA 12*  
+*DÍA 14*  
 Práctica: Ilustración de un texto  
 
-*DÍA 13*  
+*DÍA 15*  
 Práctica: Ilustración de un texto  
 
 ### DISEÑO APP
 
-*DÍA 14*  
+*DÍA 16*  
 Presentación de ilustraciones: [web]()  (***)  
 Innovación y emprendimiento: [Slideshow]()  |  [Video de clase]()  
 Tarea: *Canvas*
 
 
-*DÍA 15*  
+*DÍA 17*  
 Diseño, manual de supervivencia: [Slideshow]()  |  [Video de clase]()  
 Practica: Introducción al software  
 Adobe XD: [Videos]()  
@@ -106,7 +106,7 @@ Tarea: *Diseño de una app*
 
 ### IMÁGENES BITMAP
 
-*DÍA 16*  
+*DÍA 18*  
 Gráficos de mapa de bits:  [Slideshow]()  |  [Video de clase]()  
 Práctica: Introducción al software  
 Adobe Photoshop: [Videos]()  
@@ -118,7 +118,7 @@ Tarea: *Fotomontaje*
 
 ### DISEÑO WEB
 
-*DÍA 17*  
+*DÍA 19*  
  
 Slideshow: [HTML5]()  | [CSS3]()  
 Clase 1: [Videos]()    
@@ -126,26 +126,26 @@ Tarea: *Portafolio Web*
 Taller: Mapa de bit, Diseño app, portafolio web   
 
 
-*DÍAS 18, 19, 20, 21*  
+*DÍAS 20, 21, 22, 23*  
 Clases 2, 3, 4, 5: [Videos]()  
 Taller: Mapa de bit, Diseño app, portafolio web     
 
   
   
-*DÍA 22*  
+*DÍA 24*  
 Clase 6: [Videos](https://vimeopro.com/user37418220/diseno-web/page/1)  
 Taller: Mapa de bit, Diseño app, portafolio web  
 Test: Flex box
 
 
-*DÍA 23*  
+*DÍA 25*  
 Clase 7: [Videos](https://vimeopro.com/user37418220/diseno-web/page/1)  
 Taller: Mapa de bit, Diseño app, portafolio web  
 
 
 ### ENTREGAS, TUTORÍAS Y NOTAS 
 
-*DÍAS 24, 25, 26*   
+*DÍAS 26, 27, 28*   
 
   
   
