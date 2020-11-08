@@ -61,26 +61,25 @@ Test: *Historia de la fotografía*
 *DÍAS 8, 9 y 10*  
 Prácticas: Proyecto Retratos 
 
-<!--
+
 *DÍA 11*  
-Presentación de proyectos: [Retratos]()  
-Prácticas: Entrega de rúbricas
+Presentación de proyectos de Retratos.  
+Prácticas: Evaluación entre grupos. 
+ 
 
 ### DIBUJO VECTORIAL E ILUSTRACIÓN
 
 *DÍA 12*  
-Didujo vectorial: [Slideshow]()  |  [Video de clase]() (***)  
-Prácticas: Introducción al software  
-Adobe Illustrator: [Videos]()  
-Icomos de Gerd Arntz: [Video de clase]()  
-Tarea: *Siluetas*
+Didujo vectorial: [Slideshow](https://docs.google.com/presentation/d/1KCGlup9AMP3x4kQBWffvtXgxFIZyGgikGSqrx3q080A/edit?usp=sharing)   
+Prácticas: Introducción al software.  
+Tarea "Siluetas": [Iconos de Gerd Arntz](https://vimeo.com/476817556) | [Ejemplo](https://vimeo.com/476819193)      
+  
 
-
+<!--
 
 *DÍA 13*  
-Práctica de contorno en clase  
-Ilustración de un [texto]()  
-Tarea: *Ilustración*
+Prácticas: Herramientas Adobe Illustrator [Videos](https://vimeopro.com/user37418220/illustrator).   
+Tarea: *Ilustración* de un [texto]()  . 
 
 
 *DÍA 14*  
