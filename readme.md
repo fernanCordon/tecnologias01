@@ -70,9 +70,9 @@ Prácticas: Evaluación entre grupos.
 ### DIBUJO VECTORIAL, SVGS E ILUSTRACIÓN
 
 *DÍA 12*  
-Didujo vectorial: [Slideshow]()  |  [Video de clase]()   
+Didujo vectorial: [Slideshow](https://docs.google.com/presentation/d/1KCGlup9AMP3x4kQBWffvtXgxFIZyGgikGSqrx3q080A/edit?usp=sharing)  |  [Video de clase](https://vimeo.com/476906499)   
 Prácticas: Introducción al software.  
-Tarea "Siluetas": [Iconos de Gerd Arntz](6) | [Ejemplo]()      
+Tarea "Siluetas": [Iconos de Gerd Arntz](https://vimeo.com/476817556) | [Ejemplo](https://vimeo.com/476819193)   
   
 <!--
 
