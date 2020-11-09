@@ -67,23 +67,28 @@ Presentación de proyectos de Retratos.
 Prácticas: Evaluación entre grupos. 
  
 
-### DIBUJO VECTORIAL E ILUSTRACIÓN
+### DIBUJO VECTORIAL, SVGS E ILUSTRACIÓN
 
 *DÍA 12*  
-Didujo vectorial: [Slideshow](https://docs.google.com/presentation/d/1KCGlup9AMP3x4kQBWffvtXgxFIZyGgikGSqrx3q080A/edit?usp=sharing)   
+Didujo vectorial: [Slideshow]()  |  [Video de clase]()   
 Prácticas: Introducción al software.  
-Tarea "Siluetas": [Iconos de Gerd Arntz](https://vimeo.com/476817556) | [Ejemplo](https://vimeo.com/476819193)      
+Tarea "Siluetas": [Iconos de Gerd Arntz](6) | [Ejemplo]()      
   
-
 <!--
 
 *DÍA 13*  
-Prácticas: Herramientas Adobe Illustrator [Videos](https://vimeopro.com/user37418220/illustrator).   
-Tarea: *Ilustración* de un [texto]()  . 
+Instalación de Visual Studio Code [Video](https://vimeo.com/441947282).   
+Tarea: *Presentación SVG* en una sencilla web: [ejemplo de clase](https://vimeo.com/477072681).  
+
+*DÍA 14 y 15*  
+Tiempo de prácticas para la tarea *Siluetas* y *Presentación SVG*.
 
 
-*DÍA 14*  
-Práctica: Ilustración de un texto  
+*DÍA 16*  
+Herramientas de Adobe Illustrator: [Videos](https://vimeopro.com/user37418220/illustrator)   
+Tarea: *Ilustración de un texto*
+
+
 
 *DÍA 15*  
 Práctica: Ilustración de un texto  
