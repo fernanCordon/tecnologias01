@@ -80,11 +80,15 @@ Tarea "Siluetas": [Iconos de Gerd Arntz](https://vimeo.com/476817556) | [Ejemplo
 Instalación de Visual Studio Code [Video](https://vimeo.com/441947282).   
 Tarea: *Presentación SVG* en una sencilla web: [ejemplo de clase](https://vimeo.com/477072681).  
 
+
+
+*DÍA 14*  
+Tiempo de prácticas para las tareas *Siluetas* y *Presentación SVG*.
+
 <!--
 
-*DÍA 14 y 15*  
-Tiempo de prácticas para la tarea *Siluetas* y *Presentación SVG*.
-
+*DÍA 15*  
+Tiempo de prácticas para las tareas *Siluetas* y *Presentación SVG*.
 
 *DÍA 16*  
 Herramientas de Adobe Illustrator: [Videos](https://vimeopro.com/user37418220/illustrator)   
