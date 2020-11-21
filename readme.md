@@ -82,8 +82,13 @@ Tarea: *Presentación SVG* en una sencilla web: [ejemplo de clase](https://vimeo
 
 
 
-*DÍA 14*  
-Tiempo de prácticas para las tareas *Siluetas* y *Presentación SVG*.
+*DÍA 14 y 15*  
+Tiempo de prácticas para las tareas *Siluetas* y *Presentación SVG*.  
+
+
+
+*DÍA 16 y 17*  
+Herramientas de Adobe Illustrator.  
 
 <!--
 
