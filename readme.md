@@ -1,20 +1,15 @@
 # Tecnologías de la imagen 1
 
 
-### PRESENTACIÓN DE LA ASIGNATURA 
 
 *DÍA 1*  
 Presentación de la asignatura: [Slideshow](https://docs.google.com/presentation/d/14xRkN9yqllp6_I3m0gIFHbMaN25jg9FvyeM7ilqvlmc/edit?usp=sharing)  |  [Video de clase](https://vimeopro.com/user37418220/tecnologias-imagen/video/459290637) 
 
-### IMAGEN DIGITAL 
 
 Imagen digital: [Slideshow](https://docs.google.com/presentation/d/1MfZuHkc294BJ-Yvhe6znkFwRYLDf6tqUfg0-DXlRYkU/edit?usp=sharing)  | [Video de clase](https://vimeo.com/278643024)  
 Prácticas: Polilabs, Poliformat, Teams.  
 Tarea:  *Imagen digital*
 
-
-
-### INDESIGN  
 
 *DÍA 2*  
 Composición: [Slideshow](https://docs.google.com/presentation/d/1a-DBRTgNLoqvwxJFwWkQRNu1TYjbqtgu5Sc7D8a7Lhg/edit?usp=sharing)  |  [Video de clase](https://vimeopro.com/user37418220/tecnologias-imagen/video/459309046)   
@@ -31,8 +26,6 @@ Tarea: *Maquetación 1, Maquetación 2 y Maquetación 3*
 Prácticas: InDesign 
 
 
-	
-### FOTOGRAFÍA 
 
 *DÍA 5*  
 Toma fotográfica: [Video de clase](https://vimeo.com/279921279)  
@@ -67,8 +60,6 @@ Presentación de proyectos de Retratos.
 Prácticas: Evaluación entre grupos. 
  
 
-### DIBUJO VECTORIAL, SVGS E ILUSTRACIÓN
-
 *DÍA 12*  
 Didujo vectorial: [Slideshow](https://docs.google.com/presentation/d/1KCGlup9AMP3x4kQBWffvtXgxFIZyGgikGSqrx3q080A/edit?usp=sharing)  |  [Video de clase](https://vimeo.com/476906499)   
 Prácticas: Introducción al software.  
@@ -88,9 +79,27 @@ Tiempo de prácticas para las tareas *Siluetas* y *Presentación SVG*.
 
 
 *DÍA 16 y 17*  
-Herramientas de Adobe Illustrator.  
+Herramientas de Adobe Illustrator.   
+Videos de Illustrator. 
+
+*DÍA 18*  
+Revisión del calendario (fechas de entregas).  
+Tarea: Ilustración de un texto.  
+Presentación y Tareas: Ajustes, colorear, restaurar y fotomontaje.  
+Gráficos bit-map: [Slideshow]( )  |  [Video de clase]()   
+Tamaño y resolución: [Video](). 
 
 <!--
+
+*DÍA 18*  
+Revisión del calendario (fechas de entregas).  
+Tarea: Ilustración de un texto.  
+Presentación y Tareas: Ajustes, colorear, restaurar y fotomontaje.  
+Gráficos bit-map: [Slideshow](https://docs.google.com/presentation/d/1MBEuLxeSKsAVrVOtGmL1O7O6ZEvwD4ABZt5hCP6ib6I/edit#slide=id.g88396a2c05_2_58)  |  [Video de clase](https://vimeo.com/289503884)   
+Tamaño y resolución: [Video](https://vimeo.com/485093395). 
+
+
+
 
 *DÍA 15*  
 Tiempo de prácticas para las tareas *Siluetas* y *Presentación SVG*.
