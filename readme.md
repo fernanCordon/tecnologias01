@@ -82,14 +82,6 @@ Tiempo de prácticas para las tareas *Siluetas* y *Presentación SVG*.
 Herramientas de Adobe Illustrator.   
 Videos de Illustrator. 
 
-*DÍA 18*  
-Revisión del calendario (fechas de entregas).  
-Tarea: Ilustración de un texto.  
-Presentación y Tareas: Ajustes, colorear, restaurar y fotomontaje.  
-Gráficos bit-map: [Slideshow]( )  |  [Video de clase]()   
-Tamaño y resolución: [Video](). 
-
-<!--
 
 *DÍA 18*  
 Revisión del calendario (fechas de entregas).  
@@ -98,7 +90,7 @@ Presentación y Tareas: Ajustes, colorear, restaurar y fotomontaje.
 Gráficos bit-map: [Slideshow](https://docs.google.com/presentation/d/1MBEuLxeSKsAVrVOtGmL1O7O6ZEvwD4ABZt5hCP6ib6I/edit#slide=id.g88396a2c05_2_58)  |  [Video de clase](https://vimeo.com/289503884)   
 Tamaño y resolución: [Video](https://vimeo.com/485093395). 
 
-
+<!--
 
 
 *DÍA 15*  
