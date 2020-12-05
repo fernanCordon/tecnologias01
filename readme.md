@@ -90,6 +90,9 @@ Presentación y Tareas: Ajustes, colorear, restaurar y fotomontaje.
 Gráficos bit-map: [Slideshow](https://docs.google.com/presentation/d/1MBEuLxeSKsAVrVOtGmL1O7O6ZEvwD4ABZt5hCP6ib6I/edit#slide=id.g88396a2c05_2_58)  |  [Video de clase](https://vimeo.com/289503884)   
 Tamaño y resolución: [Video](https://vimeo.com/485093395). 
 
+*DÍAS 19, 20 y 21*  
+Prácticas: Tareas de Illustrator y Photoshop. 
+
 <!--
 
 
