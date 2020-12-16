@@ -93,6 +93,10 @@ Tamaño y resolución: [Video](https://vimeo.com/485093395).
 *DÍAS 19, 20 y 21*  
 Prácticas: Tareas de Illustrator y Photoshop. 
 
+*DÍA 22*.  
+Puesta en común de las Ilustraciones.  
+Creando nuestra Primera web: [Video](https://vimeo.com/340372487). 
+
 <!--
 
 
